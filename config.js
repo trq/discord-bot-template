@@ -1,4 +1,4 @@
 module.exports = {
-    defaultPrefix: '??',
+    defaultPrefix: '+',
     ownerID: '144645791145918464'
 };
